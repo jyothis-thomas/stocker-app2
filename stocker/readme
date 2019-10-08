@@ -1,0 +1,9 @@
+Must install sendgrid django and requests package using the command:
+
+pip3 install sendgrid-django
+
+pip3 install requests
+
+pip3 install whitenoise
+
+Please note to open a sendgrid account and use the api code from the site to use reset password funtionality
